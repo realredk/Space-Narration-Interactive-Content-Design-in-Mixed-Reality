@@ -56,6 +56,7 @@ This section guides you through setting up the necessary software and hardware t
 - **`Space Narration Interactive Content Design in Mixed Reality photos.pdf`**: Final project presentation, providing an overview and visual documentation.
 - **`Space Narration Interactive Content Design in Mixed Reality.mp4`**: Demonstrates the test interactions within the MR environment.
 - **`flower.blend`**: Blender file for the primary model used in the test: Available for download at [Google Drive](https://drive.google.com/drive/folders/1Ohd53vIOyQFkL1-iX9nAu_RPeldZDOFH?usp=sharing).
+- **`00 Scenes`** shows the scene built in unity.
 
 ## Project Team
 - Zhirui Bian
